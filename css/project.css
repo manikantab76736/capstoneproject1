@@ -1,0 +1,299 @@
+.main{
+    height: 500px;
+    width: 1000px;
+    background-size: cover;
+    background-image:url('../images/proj1.jpg') ;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.a{
+    font-size: 65px;
+    color: white;
+    font-style:normal;
+    padding-top: 350px;
+    padding-left: 100px;
+
+}
+.b{
+    font-size:15px;
+    padding-left: 100px;
+    padding-top: 5px;
+    color: white;
+}
+
+.icons{
+    height: 200px;
+   width :1000px;
+   background-color:white;
+   margin-left:10px ;
+   display: flex;
+   
+   
+}
+
+.c{
+    height:150px ;
+    width:300px;
+    background-color: white;
+    padding-left: 100px;
+    padding-top:50px;
+}
+
+.c i{
+    font-size:50px;
+    
+}
+
+.second{
+    height:300px;
+    width: 1000px;
+    background-size: 100%;
+    background-image:url('../images/proj4.jpeg') ;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 10px;
+   
+}
+.our{
+    font-size: 40px;
+    color: white;
+    font-style:normal;
+    padding-top: 50px;
+    padding-left: 100px;
+    
+   
+}
+.abc{
+    height: 300px;
+    width: 900px;
+    padding-top: 70PX;
+    
+    
+}
+
+.one{
+    height: 150px;
+    width: 240px;
+    background-size: 100%;
+    background-image:url('../images/proj6.jpeg') ;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 10px; 
+    padding-top: 170px;
+}
+.two{
+    height: 250px;
+    width: 250px;
+    background-size: 100%;
+    background-image:url('../images/proj7.jpeg') ;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 10px;
+    padding-top: 170px;
+}
+.three{
+    height: 300px;
+    width: 300px;
+    background-size: 100%;
+    background-image:url('../images/proj5.jpeg') ;
+    background-repeat: no-repeat;
+    float:left;
+    padding-top: 170px;
+    
+   
+   
+}
+ .hi{
+    
+    color: black;
+    float: left;
+    
+ }
+ .half{
+
+    height: 800px;
+    width: 900px;
+    background-color:gainsboro;
+    padding-left: 100px;
+    float:left;
+ }
+ .top{
+    height: 150px;
+    width: 900px;
+   
+ }
+   .co{
+    height:600px ;
+    width: 900px;
+    /* background-color: #e4dcdc; */
+    float: left;
+   }
+
+   .msd{
+    height: 300px;
+    width: 900px;
+    /* background-color:rgb(18, 27, 18) ; */
+    float: left;
+   }
+   
+   .vk{
+    height: 300px;
+    width: 900px;
+    /* background-color:rgb(128, 0, 83) ; */
+    float: left;
+   }
+   
+
+
+   .rj1{
+    height: 300px;
+    width: 450px;
+    /* background-color: blueviolet; */
+    float: left;
+    
+   }
+   .rj2{
+    height: 300px;
+    width: 450px;
+    /* background-color: rgb(34, 174, 158); */
+    float: left;
+   }
+
+   .rs1{
+    height: 300px;
+    width: 450px;
+    /* background-color: rgb(226, 43, 52); */
+    float: left;
+   }
+   .rs2{
+    height: 300px;
+    width: 450px;
+    /* background-color: rgb(174, 226, 43); */
+    float: left;
+   }
+
+   .dh1{
+    height: 300px;
+    width: 170px;
+    background-size: 125%;
+    background-image:url('../images/proj110.jpeg') ;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 5px;
+   }
+   .dh2{
+    height: 300px;
+    width: 170px;
+    background-size: 125%;
+    background-image:url('../images/proj12.jpg') ;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 5px;
+   }
+
+   .vr1{
+    height: 600px;
+    width: 150px;
+    background-size: 170%;
+    background-image:url('../images/proj13.jpeg') ;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 5px;
+   }
+   .vr2{
+    height: 300px;
+    width: 150px;
+    background-size: 170%;
+    background-image:url('../images/proj14.jpeg') ;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 5px;
+   }
+
+   .photo{
+    height: 200px;
+    width: 1000px;
+    /* background-color: blueviolet; */
+    background-image:url('../images/projmain.jpeg.jpg');
+    background-size: 100%;
+    float: left;
+   }
+
+   .sm{
+
+    height: 20px;
+    width :20px;
+    padding-left: 10px;
+    display: flex;
+    
+   }
+
+   .m{
+    padding-right: 2px;
+   }
+   .blog{
+    height: 150px;
+    width: 900px;
+    /* background-color: blue; */
+    padding-top: 20px;
+    padding-left: 100px;
+    float: left;
+   }
+
+   .last{
+    height: 500px;
+    width: 950px;
+    /* background-color: blueviolet; */
+    float: left;
+    padding-left: 50px;   }
+
+   .aa{
+    height: 500x;
+    width: 300px;
+    background-image: url('../images/proj21.jpeg');
+    background-repeat: no-repeat;
+    
+    float: left;
+    padding: 10px;
+
+   }
+   
+   .qq{
+
+    height: 475px;
+    width: 600px;
+    float: left;
+    
+   }
+   .bb{
+    height: 475px;
+    width: 300px;
+    
+   
+    float: left;
+   
+
+   }
+   .cc{
+    height:475px;
+    width: 300px;
+    background-image: url('../images/proj22.jpeg');
+    
+    background-repeat: no-repeat;
+    float: left;
+    
+
+   }
+   .nn{
+    padding-top: 200px;
+   }
+
+ .gg{
+    height: 475px;
+    width: 300px;
+  background-image: url('../images/proj20.jpeg');
+    background-repeat: no-repeat;
+    float: left;
+ }
